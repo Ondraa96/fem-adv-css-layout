@@ -1,6 +1,8 @@
 CHAPTER 6: INSIDE PAGE LAYOUT
 
-I've given you book.html, an inside page layout for the website. It has its own stylesheet, inside.css. This stylesheet is purely "pretty" stuff -- there's nothing in it pertaining to layout.
+I've given you book.html, an inside page layout for the website. 
+
+It has its own stylesheet, inside.css. This stylesheet is purely "pretty" stuff -- there's nothing in it pertaining to layout.
 
 Go back to layout.css and see if you can edit this stylesheet to apply to the book.html page.
 
